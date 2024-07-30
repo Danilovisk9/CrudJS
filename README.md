@@ -1,2 +1,2 @@
-<br>Cadastro de Funcionário<br/>
+Cadastro de Funcionário
 
