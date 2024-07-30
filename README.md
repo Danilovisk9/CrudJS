@@ -1,2 +1,2 @@
-Cadastro de Funcionário 
-(Nome, Função, Salário)
+<br>Cadastro de Funcionário<br/>
+
